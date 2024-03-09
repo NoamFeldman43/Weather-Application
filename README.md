@@ -15,7 +15,8 @@
 
 מגדיר את פריסת מסך הפעילות הראשית.
 מכיל TextView להצגת הכותרת "מזג האוויר", EditText להזנת שם העיר, Button לקבלת פרטי מזג האוויר, כפתור נוסף לניקוי הטקסט ב-EditText, ו-TextView להצגת תוצאת הטמפרטורה.
-MainActivity.java:
+
+## MainActivity.java:
 
 ## זהו קובץ הפעילות הראשי המטפל באינטראקציות של המשתמש ובבקשות ל-API.
 מאתחל את האלמנטים EditText (etCity) ו-TextView (tvResult) בשיטת onCreate.
